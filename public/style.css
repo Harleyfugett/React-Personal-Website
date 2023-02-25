@@ -1,0 +1,46 @@
+body {
+    background-color: #9fc5e8;
+}
+
+.image {
+    width: 500px;
+    height: 300px;
+}
+
+.portfolio {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.port2 {
+    display: flex;
+    flex-direction: column;
+}
+
+.directory {
+    display: flex;
+    padding: 2%;
+    background-color: #cfe2f3;
+}
+.homepage {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.about1 {
+    display: flex;
+    flex-direction: column;
+}
+
+.about2 {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* #0b5394
+#3d85c6
+#6fa8dc
+#9fc5e8 
+#cfe2f3  */
